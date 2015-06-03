@@ -63,7 +63,7 @@ First, get cookiecutter. Trust me, it's awesome::
 
 Now run it against this repo::
 
-    $ cookiecutter https://github.com/pydanny/cookiecutter-django.git
+    $ cookiecutter https://github.com/savioabuga/cookiecutter-django-1.7.7.git
 
 You'll be prompted for some questions, answer them, then it will create a Django project for you.
 
